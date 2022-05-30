@@ -4,7 +4,7 @@
 </div>
 <br/
 <div>Quais tecnologias foram utilizadas?
-<div>R: HTML, JS e jQuery</div>
+<div>R: HTML, CSS, JS e jQuery</div>
 <br />
 <div>De onde os dados vem?</div></div>
 <div>R: A API utilizada é https://networkcalc.com/api/</div>
