@@ -1,5 +1,6 @@
 🖐️Olá, seja bem vindo! =D
 <div>Preview: https://pesquisa-q7evdjjun-williampscheidt.vercel.app</div>
+<br/>
 
 <div>O que esse código faz? -></div> 
 <div>R:Esse código visa me auxiliar durante a rotina trabalhando como Analista de Suporte, sua função é de realizar uma pesquisa DNS de uma maneira mais ágil e direta, apenas digitando o domínio e retornando os dados DNS que preciso conferir.</div>
