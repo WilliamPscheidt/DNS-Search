@@ -1,6 +1,6 @@
 🖐️Olá, seja bem vindo! =D
 <div>O que esse código faz? -></div> 
-<div>R:Esse código visa me auxiliar durante a rotina trabalhando como Analista de Suporta, sua função é de realizar uma pesquisa DNS de uma maneira mais ágil e direta, apenas digitando o domínio e retornando os dados DNS que preciso conferir.</div>
+<div>R:Esse código visa me auxiliar durante a rotina trabalhando como Analista de Suporte, sua função é de realizar uma pesquisa DNS de uma maneira mais ágil e direta, apenas digitando o domínio e retornando os dados DNS que preciso conferir.</div>
 </div>
 <br/
 <div>Quais tecnologias foram utilizadas?
